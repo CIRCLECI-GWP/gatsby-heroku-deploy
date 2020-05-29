@@ -1,6 +1,6 @@
 # Continuous deployment of Gatsby apps to Heroku
 
-[![CircleCI](https://circleci.com/gh/CIRCLECI-GWP/gatsby-heroku-deploy.svg?style=svg)](https://app.circleci.com/pipelines/github/CIRCLECI-GWP/graphql-test-server?branch=master)
+[![CircleCI](https://circleci.com/gh/CIRCLECI-GWP/gatsby-heroku-deploy.svg?style=svg)](https://app.circleci.com/pipelines/github/CIRCLECI-GWP/gatsby-heroku-deploy?branch=master)
 
 <p align="center"><img src="https://avatars3.githubusercontent.com/u/59034516"></p>
 
